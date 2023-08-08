@@ -19,4 +19,4 @@ As a developer, I am passionate about learning and working with new technologies
 
 ## Others
 
-You can learn more about me at eo33.github.io
+You can learn more about me at [eo33.github.io](eo33.github.io)
