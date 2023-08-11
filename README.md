@@ -1,6 +1,6 @@
 # Introduction
 
-Hey there 👋 My name is Edward. I'm a documentation developer who discovered my passion for web technologies after developing documentation, such as web help and APIs. Now, I am looking for a front-end role.
+Hey there 👋 My name is Edward. I'm a documentation developer who discovered my passion for web technologies after developing documentation, such as web help and APIs. Now, I am looking for a front-end/full-stack role.
 
 ## Technologies I've worked with
 
