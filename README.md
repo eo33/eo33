@@ -8,10 +8,11 @@ As a developer, I am passionate about learning and working with new technologies
 
 - 📄 HTML, CSS and JS
 - ✡️ MERN stack
+- ☁️ React-Redux
 - 🚀 Bootstrap
 - 🔘 Jquery
 - 🐍 Python Numpy
-- 🐊 Docusausurs (React.js)
+- 🐊 Docusausurs (React)
 - ✍️ Madcap Flare
 - 📩 Postman
 - 🖥️ Azure
