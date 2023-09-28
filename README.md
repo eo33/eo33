@@ -19,6 +19,5 @@ As a developer, I am passionate about learning and working with new technologies
 - 🖌️ Figma and Canva
 
 ## Others
-
-You can learn more about me at [here](https://eo33.github.io/)
-Check out my Leetcode profile [here](https://leetcode.com/eo33/)
+- You can learn more about me at [here](https://eo33.github.io/)
+- Check out my Leetcode profile [here](https://leetcode.com/eo33/)
