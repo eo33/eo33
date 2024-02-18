@@ -5,14 +5,19 @@ Hey there 👋 My name is Edward. I'm a documentation developer who is passionat
 ## Technologies I've worked with
 
 As a documentation developer, I've worked with the following documentation tools:
-
 - ✍️ Madcap Flare
-- 📄 HTML, CSS and JS
 - 🐊 Docusausurs (React)
-- 🚀 MDX 3.0 (Markdown with JSX)
-- ⏱️ GitBook
 - 📐 MKDocs material
+- 🚀 MDX 3.0 (Markdown with JSX)
+- 📄 HTML, CSS and JS
 - 📩 Postman (API testing)
+- ⏱️ GitBook
 - 🖽 WordPress CMS
-- 🖌️ Canva for content
 - 🎨 Figma for UI design
+- 🖌️ Canva for content
+
+I also have experience in SEO, using the following tools:
+- 🌐 Similar Web
+- 📧 Google Analytics
+- 💢 Neuron Writer
+- 💬 Ahref
