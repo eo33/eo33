@@ -14,7 +14,7 @@ As a documentation developer, I've worked with the following documentation tools
 - ⏱️ GitBook
 - 🖽 WordPress CMS
 - 🎨 Figma for UI design
-- 🖌️ Canva for content
+- 🖌️ Canva
 
 I also have experience in SEO, using the following tools:
 - 🌐 Similar Web
