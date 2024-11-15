@@ -1,23 +1,39 @@
 # Introduction
 
-Hey there 👋 My name is Edward. I'm a documentation developer who is passionate about technology and writing content. I combine these two to create beautiful documentations!
+Hey there 👋 My name is Edward. I'm a technical writer who is passionate about technology and writing content. I combine these two to create beautiful documentations! 
 
 ## Technologies I've worked with
 
-As a documentation developer, I've worked with the following documentation tools:
+Throughout the years, I've worked with many tools. Here are some of them!
+
+### Documentation tools:
 - ✍️ Madcap Flare
+- 🎲 Confluence 
 - 🐊 Docusausurs (React)
 - 📐 MKDocs material
 - 🚀 MDX 3.0 (Markdown with JSX)
-- 📄 HTML, CSS and JS
-- 📩 Postman (API testing)
 - ⏱️ GitBook
 - 🖽 WordPress CMS
+
+### Testing tools:
+- 📩 Postman (API testing)
+- 🌐 Browser Network (Request & response)
+- 💡 Pipedream (Webhook)
+
+### Programming languages / framework:
+- 📄 HTML, CSS and JS
+- 🧤 ExpressJS
+- 🍫 MongoDB
+- 🧷 React.JS
+- 🧶 Node.JS
+
+### Design tools:
 - 🎨 Figma for UI design
 - 🖌️ Canva
+- 🍼 Visio
 
-I also have experience in SEO, using the following tools:
-- 🌐 Similar Web
-- 📧 Google Analytics
-- 💢 Neuron Writer
-- 💬 Ahref
+### Productivity / communication tools:
+- 🥛 Microsoft products (M365, Word, Teams, Azure) 
+- ⚒️ Atlassian products (Jira, Trello & Confluence)
+- 🔑 Slack
+- 🧳 Notion
