@@ -37,3 +37,5 @@ Throughout the years, I've worked with many tools. Here are some of them!
 - ⚒️ Atlassian products (Jira, Trello & Confluence)
 - 🔑 Slack
 - 🧳 Notion
+
+[![](https://visitcount.itsvg.in/api?id=eo33&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
